@@ -1,0 +1,19 @@
+.button {
+  text-align: center;
+}
+.card-block {
+  background-color: black;
+}
+#profil_achraf{
+  display: flex;
+  width: 200px;
+  ;
+  margin-left: 39%;
+}
+.pic{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  margin-left: auto;
+    margin-right: auto;
+ }
